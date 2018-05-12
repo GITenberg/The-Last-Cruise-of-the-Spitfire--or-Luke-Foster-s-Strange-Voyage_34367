@@ -1,0 +1,34 @@
+_repo: The-Last-Cruise-of-the-Spitfire--or-Luke-Foster-s-Strange-Voyage_34367
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34367-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Steward, Ray M.
+    - Bonehill, Captain Ralph
+    - Winfield, Arthur M.
+    - Bonehill, Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2010-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34367'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Sailors -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Last Cruise of the Spitfire; or, Luke Foster's Strange Voyage
+url: http://www.gutenberg.org/ebooks/34367
